@@ -1,0 +1,2 @@
+snscrape @ git+https://github.com/JustAnotherArchivist/snscrape.git
+requests>=2.31.0
